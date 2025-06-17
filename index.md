@@ -2,36 +2,78 @@
 layout: default
 ---
 
-# e-portfolio
+# About
 * * *
 
+introduce self
+Discuss how completing your coursework throughout the program and developing the ePortfolio has helped you showcase your strengths, shape your professional goals and values, and prepare to enter or become more employable in the computer science field.
+Use specific examples from your program and include examples outside of the artifacts included in your ePortfolio.
+Address the following topics: collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and database, and security. This section should function as an overall introduction to your skills, not a discussion of the artifacts.
+
+Summarize and introduce how your artifacts fit together and inform the portfolio as a whole.
+This summary will help demonstrate the full range of your computer science talents and abilities.
+This section should introduce your audience to the technical artifacts that follow the professional self-assessment.
+
+
+## Code Review
+
+add embedded code review here
+
+# Display of Skills
+## Software Design and Engineering
+#### Original Artifact
+[Software Design and Engineering]((https://github.com/heather100401/GameDevFinalProject)).
+
+#### Planned Enhancements
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+#### Enhanced Artifact
+[Software Design and Engineering]((https://github.com/heather100401/GameDevFinalProject)).
+
+#### Narrative
+insert pdf of narrative here
+
+
+## Algorithms and Data Structures
+#### Original Artifact
+[Algorithms and Data Structures]((https://github.com/heather100401/GameDevFinalProject)).
+
+#### Planned Enhancements
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+#### Enhanced Artifact
+[Algorithms and Data Structures]((https://github.com/heather100401/GameDevFinalProject)).
+
+#### Narrative
+insert pdf of narrative here
+
+
+## Databases
+#### Original Artifact
+[Databases]((https://github.com/heather100401/GameDevFinalProject)).
+
+#### Planned Enhancements
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+#### Enhanced Artifact
+[Databases]((https://github.com/heather100401/GameDevFinalProject)).
+
+#### Narrative
+insert pdf of narrative here
+
+linkedin link
 
 
 
 
 
 
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -48,87 +90,3 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
