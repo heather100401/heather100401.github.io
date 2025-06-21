@@ -53,8 +53,7 @@ add embedded code review here
 [Enhanced Appointment Setter](https://github.com/heather100401/EnhancedAppointmentSetter).
 
 #### Narrative
-insert pdf of narrative here
-
+[Algorithms and Data Structures Narrative]({{ site.baseurl }}/Narratives/DSA.pdf)
 
 ## Databases
 #### Original Artifact
@@ -69,7 +68,7 @@ insert pdf of narrative here
 [Enhanced Weight Tracking App](https://github.com/heather100401/EnhancedApp).
 
 #### Narrative
-insert pdf of narrative here
+[Databases Narrative]({{ site.baseurl }}/Narratives/Databases.pdf)
 
 linkedin link
 
