@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+        <Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="?actionBarSize"
+            android:theme="?actionBarTheme"
+            android:background="@color/blue">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Add Weight"
+                android:textSize="35sp"
+                android:textColor="@color/lightGray"
+                android:textStyle="bold"
+                android:layout_gravity="center"/>
+
+        </Toolbar>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="enter weight"
+        android:textSize="25sp"
+        android:textColor="@color/blue"
+        android:paddingTop="30dp"
+        android:paddingBottom="10dp"
+        android:layout_gravity="center" />
+
+<Toolbar
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/addWeightEditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:ems="10"
+        android:inputType="text" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="lbs"
+        android:textSize="25sp"
+        android:textColor="@color/blue"
+        android:paddingTop="30dp"
+        android:paddingBottom="10dp"
+        android:layout_gravity="top|center" />
+</Toolbar>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="select date"
+        android:textSize="25sp"
+        android:textColor="@color/blue"
+        android:layout_gravity="center" />
+
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <DatePicker
+        android:id="@+id/dateDatePicker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:headerBackground="@color/blue" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/submitButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:clickable="true"
+        app:backgroundTint="@color/blue"
+        app:srcCompat="@android:drawable/ic_menu_save"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"/>
+</FrameLayout>
+
+</LinearLayout>
