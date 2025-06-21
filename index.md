@@ -37,7 +37,7 @@ add embedded code review here
 [Enhanced Appointment Setter](https://github.com/heather100401/EnhancedAppointmentSetter).
 
 #### Narrative
-insert pdf of narrative here
+[Software Engineering and Design Narrative](https://github.com/heather100401/heather100401.github.io/Narratives/DSA-Narrative.pdf).
 
 
 ## Algorithms and Data Structures
