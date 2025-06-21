@@ -37,7 +37,7 @@ add embedded code review here
 [Enhanced Appointment Setter](https://github.com/heather100401/EnhancedAppointmentSetter).
 
 #### Narrative
-[Software Engineering and Design Narrative]{{ site.baseurl }}/Narratives/SED.pdf
+[Software Engineering and Design Narrative]({{ site.baseurl }}/Narratives/SED.pdf)
 
 
 ## Algorithms and Data Structures
