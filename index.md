@@ -26,7 +26,7 @@ add embedded code review here
 # Skills
 ## Software Design and Engineering
 #### Original Artifact
-[Software Design and Engineering]([(https://github.com/heather100401/heather100401.github.io/tree/d9fa37775ce19f4dfa1b0b496f8e08e5f3cf3b24/Enhanced%20Artifacts/Appointment%20Setter)]).
+[Software Design and Engineering]([https://github.com/heather100401/heather100401.github.io/tree/d9fa37775ce19f4dfa1b0b496f8e08e5f3cf3b24/Enhanced%20Artifacts/Appointment%20Setter]).
 
 #### Planned Enhancements
 *   This is an unordered list following a header.
