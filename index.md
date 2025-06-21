@@ -26,7 +26,7 @@ add embedded code review here
 # Skills
 ## Software Design and Engineering
 #### Original Artifact
-[Software Design and Engineering]([https://github.com/heather100401/OriginalAppointmentSetter]).
+[Software Design and Engineering](https://github.com/heather100401/OriginalAppointmentSetter).
 
 #### Planned Enhancements
 *   This is an unordered list following a header.
@@ -34,7 +34,7 @@ add embedded code review here
 *   This is an unordered list following a header.
 
 #### Enhanced Artifact
-[Software Design and Engineering]([https://github.com/heather100401/EnhancedAppointmentSetter]).
+[Software Design and Engineering](https://github.com/heather100401/EnhancedAppointmentSetter).
 
 #### Narrative
 insert pdf of narrative here
@@ -42,7 +42,7 @@ insert pdf of narrative here
 
 ## Algorithms and Data Structures
 #### Original Artifact
-[Algorithms and Data Structures]([https://github.com/heather100401/OriginalAppointmentSetter]).
+[Algorithms and Data Structures](https://github.com/heather100401/OriginalAppointmentSetter).
 
 #### Planned Enhancements
 *   This is an unordered list following a header.
@@ -50,7 +50,7 @@ insert pdf of narrative here
 *   This is an unordered list following a header.
 
 #### Enhanced Artifact
-[Algorithms and Data Structures]([https://github.com/heather100401/EnhancedAppointmentSetter]).
+[Algorithms and Data Structures](https://github.com/heather100401/EnhancedAppointmentSetter).
 
 #### Narrative
 insert pdf of narrative here
@@ -58,7 +58,7 @@ insert pdf of narrative here
 
 ## Databases
 #### Original Artifact
-[Databases]([https://github.com/heather100401/OriginalApp]).
+[Databases](https://github.com/heather100401/OriginalApp).
 
 #### Planned Enhancements
 *   This is an unordered list following a header.
@@ -66,7 +66,7 @@ insert pdf of narrative here
 *   This is an unordered list following a header.
 
 #### Enhanced Artifact
-[Databases]([https://github.com/heather100401/EnhancedApp]).
+[Databases](https://github.com/heather100401/EnhancedApp).
 
 #### Narrative
 insert pdf of narrative here
