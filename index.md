@@ -29,9 +29,9 @@ add embedded code review here
 [Original Appointment Setter](https://github.com/heather100401/OriginalAppointmentSetter).
 
 #### Planned Enhancements
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Java -> Python
+*   Add Main Menu
+*   Implement best practices 
 
 #### Enhanced Artifact
 [Enhanced Appointment Setter](https://github.com/heather100401/EnhancedAppointmentSetter).
@@ -45,9 +45,8 @@ add embedded code review here
 [Original Appointment Setter](https://github.com/heather100401/OriginalAppointmentSetter).
 
 #### Planned Enhancements
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Implement linked list
+*   Increase functionality
 
 #### Enhanced Artifact
 [Enhanced Appointment Setter](https://github.com/heather100401/EnhancedAppointmentSetter).
@@ -60,36 +59,11 @@ add embedded code review here
 [Original Weight Tracking App](https://github.com/heather100401/OriginalApp).
 
 #### Planned Enhancements
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   SQLite -> MySQL
+*   Fix bugs
 
 #### Enhanced Artifact
 [Enhanced Weight Tracking App](https://github.com/heather100401/EnhancedApp).
 
 #### Narrative
 [Databases Narrative]({{ site.baseurl }}/Narratives/Databases.pdf)
-
-linkedin link
-
-
-
-
-
-
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
