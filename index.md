@@ -33,8 +33,9 @@ Together, these artifacts showcase my growth as a developer and demonstrate my r
 *   Java -> Python
 *   Add Main Menu
 
+Original function to delete an appointment using Java
 ```java
-// Original AppointmentService deleteAppointment
+// AppointmentService deleteAppointment
     public void deleteAppointment(String appointmentID){
         if(!appointments.containsKey(appointmentID)){
             throw new IllegalArgumentException("Appointment ID not found");
@@ -43,8 +44,9 @@ Together, these artifacts showcase my growth as a developer and demonstrate my r
     }
 ```
 
+Enhanced function to delete an appointment using Python
 ```python
-// Enhanced AppointmentService delete_appointment
+// AppointmentService delete_appointment
     def delete_appointment(self, appointment):
         if self._search(appointment) == False:
             raise ValueError("Appointment ID not found")
@@ -65,7 +67,8 @@ Together, these artifacts showcase my growth as a developer and demonstrate my r
 #### Planned Enhancements
 *   Implement linked list
 *   Increase functionality
- 
+
+ Original HashMap for appointments in Java
 ```java
 // Original AppointmentService HashMap
 public class AppointmentService {
@@ -74,6 +77,8 @@ public class AppointmentService {
 		appointments = new HashMap<>();
 	}
 ```
+
+Enhanced Linked List for appointments in Python
 ```python
 // Enhanced AppointmentService Linked List
 class AppointmentService:
