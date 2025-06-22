@@ -27,7 +27,7 @@ Together, these artifacts showcase my growth as a developer and demonstrate my r
 # Skills
 ## Software Design and Engineering
 #### Original Artifact
-[Original Appointment Setter](https://github.com/heather100401/OriginalAppointmentSetter).
+[Original Appointment Setter](https://github.com/heather100401/OriginalAppointmentSetter)
 
 #### Planned Enhancements
 *   Java -> Python
@@ -54,7 +54,7 @@ Together, these artifacts showcase my growth as a developer and demonstrate my r
 ```
 
 #### Enhanced Artifact
-[Enhanced Appointment Setter](https://github.com/heather100401/EnhancedAppointmentSetter).
+[Enhanced Appointment Setter](https://github.com/heather100401/EnhancedAppointmentSetter)
 
 #### Narrative
 [Software Engineering and Design Narrative]({{ site.baseurl }}/Narratives/SED.pdf)
@@ -62,7 +62,7 @@ Together, these artifacts showcase my growth as a developer and demonstrate my r
 
 ## Algorithms and Data Structures
 #### Original Artifact
-[Original Appointment Setter](https://github.com/heather100401/OriginalAppointmentSetter).
+[Original Appointment Setter](https://github.com/heather100401/OriginalAppointmentSetter)
 
 #### Planned Enhancements
 *   Implement linked list
@@ -87,14 +87,14 @@ class AppointmentService:
 ```
 
 #### Enhanced Artifact
-[Enhanced Appointment Setter](https://github.com/heather100401/EnhancedAppointmentSetter).
+[Enhanced Appointment Setter](https://github.com/heather100401/EnhancedAppointmentSetter)
 
 #### Narrative
 [Algorithms and Data Structures Narrative]({{ site.baseurl }}/Narratives/DSA.pdf)
 
 ## Databases
 #### Original Artifact
-[Original Weight Tracking App](https://github.com/heather100401/OriginalApp).
+[Original Weight Tracking App](https://github.com/heather100401/OriginalApp)
 
 #### Planned Enhancements
 *   SQLite -> MySQL
