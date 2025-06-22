@@ -6,7 +6,9 @@ layout: default
 
 My name is Heather Page, I am a current Computer Science student at Southern New Hampshire University. I specialize in game development and app development. Through my time as a student, I’ve built a strong foundation in software design, teamwork, and communication. Through my coursework, I’ve developed skills in data structures, algorithms, and database design.
 
-Working on team-based projects taught me how to collaborate effectively and communicate clearly with both technical and non-technical stakeholders. I’ve applied these skills directly in my portfolio projects: a secure weight tracking app and an appointment setter tool. These applications highlight my ability to build real-world software that combines backend logic with user-friendly interfaces.
+Working on team-based projects taught me how to collaborate effectively and communicate clearly with both technical and non-technical stakeholders. I’ve applied these skills directly in my portfolio projects: a weight tracking app and an appointment setter tool. These applications highlight my ability to build real-world software that combines backend logic with user-friendly interfaces.
+
+Outside of my coursework, I've applied my skills in game development to create different PC games such as a first-person shooter and a puzzle game. 
 
 Together, these artifacts showcase my growth as a developer and demonstrate my readiness to contribute to the tech industry.
 
