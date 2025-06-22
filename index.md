@@ -33,7 +33,23 @@ Together, these artifacts showcase my growth as a developer and demonstrate my r
 *   Java -> Python
 *   Add Main Menu
 
+```java
+// Original AppointmentService deleteAppointment
+    public void deleteAppointment(String appointmentID){
+        if(!appointments.containsKey(appointmentID)){
+            throw new IllegalArgumentException("Appointment ID not found");
+        }
+        appointments.remove(appointmentID);
+    }
+```
 
+```python
+// Enhanced AppointmentService delete_appointment
+    def delete_appointment(self, appointment):
+        if self._search(appointment) == False:
+            raise ValueError("Appointment ID not found")
+        self.appointments.remove(appointment.get_appointment_id())
+```
 
 #### Enhanced Artifact
 [Enhanced Appointment Setter](https://github.com/heather100401/EnhancedAppointmentSetter).
@@ -57,6 +73,12 @@ public class AppointmentService {
 	public AppointmentService() {
 		appointments = new HashMap<>();
 	}
+```
+```python
+// Enhanced AppointmentService Linked List
+class AppointmentService:
+    def __init__(self):
+        self.appointments = Linked_List()
 ```
 
 #### Enhanced Artifact
