@@ -4,24 +4,16 @@ layout: default
 
 # About
 
-introduce self
+My name is Heather Page, I am a current Computer Science student at Southern New Hampshire University. I specialize in game development and app development. Through my time as a student, I’ve built a strong foundation in software design, teamwork, and communication. Through my coursework, I’ve developed skills in data structures, algorithms, and database design.
 
-Discuss how completing your coursework throughout the program and developing the ePortfolio has helped you showcase your strengths, shape your professional goals and values, and prepare to enter or become more employable in the computer science field.
+Working on team-based projects taught me how to collaborate effectively and communicate clearly with both technical and non-technical stakeholders. I’ve applied these skills directly in my portfolio projects: a secure weight tracking app and an appointment setter tool. These applications highlight my ability to build real-world software that combines backend logic with user-friendly interfaces.
 
-Use specific examples from your program and include examples outside of the artifacts included in your ePortfolio.
-
-Address the following topics: collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and database, and security. This section should function as an overall introduction to your skills, not a discussion of the artifacts.
-
-Summarize and introduce how your artifacts fit together and inform the portfolio as a whole.
-
-This summary will help demonstrate the full range of your computer science talents and abilities.
-
-This section should introduce your audience to the technical artifacts that follow the professional self-assessment.
-
+Together, these artifacts showcase my growth as a developer and demonstrate my readiness to contribute to the tech industry.
 
 ## Code Review
 
 add embedded code review here
+(https://youtu.be/zQIK5r3-pNE)
 
 # Skills
 ## Software Design and Engineering
