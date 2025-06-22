@@ -14,8 +14,15 @@ Together, these artifacts showcase my growth as a developer and demonstrate my r
 
 ## Code Review
 
-add embedded code review here
-(https://youtu.be/zQIK5r3-pNE)
+<div style="text-align: center;">
+  <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/zQIK5r3-pNE"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
 # Skills
 ## Software Design and Engineering
