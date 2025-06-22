@@ -32,7 +32,8 @@ Together, these artifacts showcase my growth as a developer and demonstrate my r
 #### Planned Enhancements
 *   Java -> Python
 *   Add Main Menu
-*   Implement best practices 
+
+
 
 #### Enhanced Artifact
 [Enhanced Appointment Setter](https://github.com/heather100401/EnhancedAppointmentSetter).
@@ -48,6 +49,15 @@ Together, these artifacts showcase my growth as a developer and demonstrate my r
 #### Planned Enhancements
 *   Implement linked list
 *   Increase functionality
+ 
+```java
+// Original AppointmentService HashMap
+public class AppointmentService {
+	private Map<String, Appointment> appointments;
+	public AppointmentService() {
+		appointments = new HashMap<>();
+	}
+```
 
 #### Enhanced Artifact
 [Enhanced Appointment Setter](https://github.com/heather100401/EnhancedAppointmentSetter).
