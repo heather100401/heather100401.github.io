@@ -90,7 +90,7 @@ class AppointmentService:
 [Enhanced Appointment Setter](https://github.com/heather100401/EnhancedAppointmentSetter).
 
 #### Narrative
-[Algorithms-and-Data-Structures-Narrative.pdf](https://github.com/user-attachments/files/20853361/DSA.pdf)
+[Algorithms and Data Structures Narrative]({{ site.baseurl }}/Narratives/DSA.pdf)
 
 ## Databases
 #### Original Artifact
@@ -99,6 +99,44 @@ class AppointmentService:
 #### Planned Enhancements
 *   SQLite -> MySQL
 *   Fix bugs
+
+##### Original function to insert data using SQLite
+```java
+public boolean insertData(String username, String password){
+        SQLiteDatabase LoginDB = this.getWritableDatabase();
+        ContentValues contentValues = new ContentValues();
+        contentValues.put("username", username);
+        contentValues.put("password", password);
+
+        long result = LoginDB.insert("allusers", null, contentValues);
+        if (result == -1){
+            return false;
+        }
+        else {
+            return true;
+        }
+    }
+```
+
+##### Enhanced function to insert data using MySQL and PHP
+```java
+    public void onResponse(Call call, Response response) throws IOException {
+	String responseData = response.body().string();
+	System.out.println("RAW RESPONSE: " + responseData);  // debugging
+
+	// Now parse
+	RegisterResponse res = new Gson().fromJson(responseData, RegisterResponse.class);
+
+	runOnUiThread(() -> {
+		if (res.success) {
+			Toast.makeText(RegisterActivity.this, "Registration successful!", Toast.LENGTH_SHORT).show();
+			finish();
+			} else {
+			Toast.makeText(RegisterActivity.this, "Error: " + res.message, Toast.LENGTH_SHORT).show();
+			}
+		});
+	}
+```
 
 #### Enhanced Artifact
 [Enhanced Weight Tracking App](https://github.com/heather100401/EnhancedApp).
