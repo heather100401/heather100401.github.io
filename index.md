@@ -33,7 +33,7 @@ Together, these artifacts showcase my growth as a developer and demonstrate my r
 *   Java -> Python
 *   Add Main Menu
 
-Original function to delete an appointment using Java
+##### Original function to delete an appointment using Java
 ```java
 // AppointmentService deleteAppointment
     public void deleteAppointment(String appointmentID){
@@ -44,7 +44,7 @@ Original function to delete an appointment using Java
     }
 ```
 
-Enhanced function to delete an appointment using Python
+##### Enhanced function to delete an appointment using Python
 ```python
 // AppointmentService delete_appointment
     def delete_appointment(self, appointment):
@@ -68,7 +68,7 @@ Enhanced function to delete an appointment using Python
 *   Implement linked list
 *   Increase functionality
 
- Original HashMap for appointments in Java
+##### Original HashMap for appointments in Java
 ```java
 // Original AppointmentService HashMap
 public class AppointmentService {
@@ -78,7 +78,7 @@ public class AppointmentService {
 	}
 ```
 
-Enhanced Linked List for appointments in Python
+##### Enhanced Linked List for appointments in Python
 ```python
 // Enhanced AppointmentService Linked List
 class AppointmentService:
@@ -90,7 +90,7 @@ class AppointmentService:
 [Enhanced Appointment Setter](https://github.com/heather100401/EnhancedAppointmentSetter).
 
 #### Narrative
-[Algorithms and Data Structures Narrative]({{ site.baseurl }}/Narratives/DSA.pdf)
+[Algorithms-and-Data-Structures-Narrative.pdf](https://github.com/user-attachments/files/20853361/DSA.pdf)
 
 ## Databases
 #### Original Artifact
